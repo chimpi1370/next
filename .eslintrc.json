@@ -1,0 +1,4 @@
+{
+  "extends": ["next/core-web-vitals","airbnb", "plugin:prettier/recommended "],
+  "parser": "@typescript-eslint/parser"
+}
